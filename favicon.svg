@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <!-- Trapes/Varde-form med luftsone rundt -->
+  <polygon points="96,51 416,51 321,461 191,461" fill="#0E2E3B" />
+  
+  <!-- Hvit V sentrert i trapesen -->
+  <path d="M 172 150 L 220 150 L 256 320 L 292 150 L 340 150 L 280 365 L 232 365 Z" fill="#FFFFFF" />
+</svg>
